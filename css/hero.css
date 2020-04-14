@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: 'Helvetica', 'Arial', san-sans-serif;
+}
+header{
+    background-color: #d14635;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+header h1{
+    color: white;
+    font-size: 40px;
+  }
+
+header img{
+  border-radius: 170px;
+  width: 300px;
+  border: 10px solid #483a94;
+}
